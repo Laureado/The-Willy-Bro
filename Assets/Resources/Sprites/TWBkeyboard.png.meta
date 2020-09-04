@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: ac57ce6eb47710f49bfb9b8947f8db1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4527399707598806338
+    second: TWBkeyboard_0
+  - first:
+      213: 9020391314690350268
+    second: TWBkeyboard_1
+  - first:
+      213: -9175223576049010975
+    second: TWBkeyboard_2
+  - first:
+      213: 219056972180857963
+    second: TWBkeyboard_3
+  - first:
+      213: -5326275994866119989
+    second: TWBkeyboard_4
+  - first:
+      213: -6133474577987669839
+    second: TWBkeyboard_5
+  - first:
+      213: -2762579219641137833
+    second: TWBkeyboard_6
+  - first:
+      213: 8001985465216700683
+    second: TWBkeyboard_9
+  - first:
+      213: -4560888859714185580
+    second: TWBkeyboard_12
+  - first:
+      213: -4901063107952127880
+    second: TWBkeyboard_13
+  - first:
+      213: 6192650256212596392
+    second: TWBkeyboard_14
+  - first:
+      213: -9135560782761608792
+    second: TWBkeyboard_15
+  - first:
+      213: 5362330068654204635
+    second: TWBkeyboard_16
+  - first:
+      213: 5594135787041122409
+    second: TWBkeyboard_17
+  - first:
+      213: -8293966249472797507
+    second: TWBkeyboard_18
+  - first:
+      213: -2681131909242297738
+    second: TWBkeyboard_19
+  - first:
+      213: 7717654015512830107
+    second: TWBkeyboard_20
+  - first:
+      213: -1923857102787904418
+    second: TWBkeyboard_21
+  - first:
+      213: 5085922289049750144
+    second: TWBkeyboard_22
+  - first:
+      213: -6195194765333944227
+    second: TWBkeyboard_23
+  - first:
+      213: -3337850542713693570
+    second: TWBkeyboard_24
+  - first:
+      213: -2941651174711031463
+    second: TWBkeyboard_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TWBkeyboard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073cfcb63fd00f548967cd9fddf5cdc5
+      internalID: -4527399707598806338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 170
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62c51aed157ee4dbf79f02dc3eae0a
+      internalID: 9020391314690350268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 170
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff5eb8492e8e6042ad86b3b89214d4c
+      internalID: -9175223576049010975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 170
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816d49c196ff5c94ab5c62643a61a144
+      internalID: 219056972180857963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 170
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b356fd25398aa46458db0d36fe2502b4
+      internalID: -5326275994866119989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 170
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20841980d18a23244adcbb57818d8c8e
+      internalID: -6133474577987669839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 93
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1f64840422989409e7342c94dc0796
+      internalID: -2762579219641137833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 154
+        width: 93
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab19c401942da642921e2bf7839045d
+      internalID: 8001985465216700683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c80820987762824ab6c08468f2a8bc3
+      internalID: -4560888859714185580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 138
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8747016bbb769c4b93186999b7fe134
+      internalID: -4901063107952127880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 138
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fc3a59bb7a0274a8a8f945019ab295
+      internalID: 6192650256212596392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 138
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4692ebf6a0fff45b3435a035c0e51b
+      internalID: -9135560782761608792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 138
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b731e32b886be4989bd192b66db371
+      internalID: 5362330068654204635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 138
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3724325ecb3421b47aca016750187de1
+      internalID: 5594135787041122409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6715aa6669f4a40ba8da237ee01634
+      internalID: -8293966249472797507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 122
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8767e3f14fe0a4340a9196823836fe91
+      internalID: -2681131909242297738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 122
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ad887a009aeb140a5ced2647527767
+      internalID: 7717654015512830107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 122
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0133e8e28203441b45ea45485a8284
+      internalID: -1923857102787904418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 122
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016e30139f557d4694ceb60b961a234
+      internalID: 5085922289049750144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10190cdc435add40a8bc74e80c231ff
+      internalID: -6195194765333944227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 106
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757d93fabab5dfe438d24cddbf2d80a6
+      internalID: -3337850542713693570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBkeyboard_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 106
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e45fdc71a3e23439a5a75dbf3e1648
+      internalID: -2941651174711031463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
