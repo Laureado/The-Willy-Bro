@@ -14,7 +14,7 @@ public class MovingPlatformScript : MonoBehaviour
         nextPos = startPos.position;
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if(transform.position== pos1.position)
         {
