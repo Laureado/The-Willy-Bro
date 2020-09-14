@@ -100,6 +100,8 @@ public class CharacterMove : MonoBehaviour
             MasterScript.NextLevel();
         if (collision.tag == "Platform")
             transform.parent = collision.gameObject.transform;
+        if (collision.tag == "Puas")
+            MasterScript.GameOver();
     }
     private void OnTriggerExit2D(Collider2D collision)
     {

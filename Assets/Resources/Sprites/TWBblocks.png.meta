@@ -20,6 +20,9 @@ TextureImporter:
   - first:
       213: 7289479093474588779
     second: TWBblocks_5
+  - first:
+      213: 8097798138169663780
+    second: TWBblocks_6
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -225,6 +228,27 @@ TextureImporter:
       bones: []
       spriteID: 60e06ae34c48b3d44bcf2c9d7f89d1e8
       internalID: 7289479093474588779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TWBblocks_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 140
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f69eed76fe10a642b2c92656f4fef38
+      internalID: 8097798138169663780
       vertices: []
       indices: 
       edges: []

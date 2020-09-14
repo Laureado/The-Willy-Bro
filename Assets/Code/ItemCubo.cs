@@ -27,7 +27,11 @@ public class ItemCubo : Item
             {
                 isActivated = false;
                 ItemToPut.GetComponent<BoxCollider2D>().isTrigger = false;
-                ItemToPut.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
+                Rigidbody2D rgb = ItemToPut.GetComponent<Rigidbody2D>();
+                rgb.bodyType = RigidbodyType2D.Dynamic;
+                rgb.mass = 4f;
+                rgb.drag = 4f;
+                rgb.gravityScale = 4f;
                 ItemToPut.tag = "Platform";
                 ItemToPut = null;
                 GameController.ChangeItemUse(ItemNumber, 1);
