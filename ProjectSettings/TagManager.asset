@@ -7,6 +7,7 @@ TagManager:
   - Meta
   - Platform
   - Puas
+  - Feet
   layers:
   - Default
   - TransparentFX
